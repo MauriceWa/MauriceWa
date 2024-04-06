@@ -1,10 +1,8 @@
 # Hello there, I'm MauriceWa 👋
 
 ## About Me
-- 🔭 I’m currently working on **[iets]**
-- 🌱 I’m currently learning **[Angular etc]**
-- 👯 I’m looking to collaborate on **[To be filled ]**
-- 💬 Ask me about **[To be filled]**
+- 🔭 I’m currently working on **[Webdevelopment & Unity]**
+- 🌱 I’m currently learning **[Angular, Springboot and C#]**
 - 📫 How to reach me: **[murillowaaijer2@outlook.com]**
 
 ## My GitHub Stats
@@ -17,7 +15,7 @@
 
 
 ## Current Projects
-- [Profile]([repository-link](https://github.com/MauriceWa/Profile)) - Short description of the project
+- [Profile]([repository-link](https://github.com/MauriceWa/Profile)) - Developing scripts for an RTS game.
 
 ## Connect with Me
 [![LinkedIn][3.2]][3]
