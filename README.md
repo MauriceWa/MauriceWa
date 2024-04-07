@@ -30,6 +30,6 @@
 
 <!-- Links to social media accounts -->
 
-[1]: http://www.twitter.com/
+[1]: [http://www.twitter.com/](https://twitter.com/BladeKrayo68644)
 [3]: http://www.linkedin.com/in/
 [6]: http://www.github.com/
