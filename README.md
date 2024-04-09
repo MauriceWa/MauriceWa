@@ -8,14 +8,14 @@
 ## My GitHub Stats
 ![MauriceWa's github stats](https://github-readme-stats.vercel.app/api?username=MauriceWa&show_icons=true&theme=radical)
 
-## Languages and Tools:
+<!-- ## Languages and Tools:
 [![](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)](#)
 [![](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript)](#)
 
 
 ## Current Projects
-- [Unity]([repository-link](https://github.com/MauriceWa/Profile)) - Developing scripts for an RTS game.
+- [Unity]([repository-link](https://github.com/MauriceWa/Profile)) - Developing scripts for an RTS game. -->
 
 ## Connect with Me
 [![LinkedIn][3.2]][3]
