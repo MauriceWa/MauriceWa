@@ -3,7 +3,7 @@
 ## About Me
 - 🔭 I’m currently working on **[Webdevelopment & Unity]**
 - 🌱 I’m currently learning **[Angular, Springboot and C#]**
-- 📫 How to reach me: **[MauriceWa.com]**
+- 📫 How to reach me: **[https://www.MauriceWa.com]**
 
 ## My GitHub Stats
 ![MauriceWa's github stats](https://github-readme-stats.vercel.app/api?username=MauriceWa&show_icons=true&theme=radical)
