@@ -1,7 +1,7 @@
 # Hello there, I'm MauriceWa 👋
 
 ## About Me
-- 🔭 I’m currently working on **[Webdevelopment & Unity]**
+- 🔭 I’m currently working on **[Webdevelopment, Unity & Cyber Security]**
 - 🌱 I’m currently learning **[Angular, Springboot and C#]**
 - 📫 How to reach me: **[https://www.MauriceWa.com]**
 
