@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m currently working on **[Webdevelopment, Unity & Cyber Security]**
-- 🌱 I’m currently learning **[Angular, Springboot and C#]**
+- 🌱 I’m currently learning **[.NET and C#]**
 - 📫 How to reach me: **[https://www.MauriceWa.com]**
 
 ## My GitHub Stats
@@ -12,8 +12,9 @@
 
 
 ## Current Projects
-- [Unity]([repository-link](https://github.com/MauriceWa/Profile)) - Developing scripts for an RTS game. -->
-
+- [Unity] - Developing scripts for an RTS game. -->
+- [Webshop] - Writing backend for Webshop.. -->
+<!-- ([repository-link](https://github.com/MauriceWa/Profile)) -->
 ## Connect with Me
 [![LinkedIn][3.2]][3]
 [![GitHub][6.2]][6]
