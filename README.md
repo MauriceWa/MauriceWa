@@ -11,8 +11,7 @@
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauriceWa&theme=radical)](https://git.io/streak-stats)
 
-## GitHub Activity Graph
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MauriceWa&theme=react-dark)](https://github.com/MauriceWa)
+
 
 ## Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauriceWa&layout=compact&theme=radical)](https://github.com/MauriceWa)
@@ -20,6 +19,8 @@
 ## Current Projects
 - [Unity] - Developing scripts for an RTS game.
 - [Webshop] - Writing backend for Webshop.
+- [Scraper] - Coding scraper for automisation.
+
 
 ## Connect with Me
 [![LinkedIn][3.2]][3]
