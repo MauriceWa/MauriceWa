@@ -6,7 +6,7 @@
 - 📫 How to reach me: **[https://www.MauriceWa.com]**
 
 ## My GitHub Stats
-![MauriceWa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricenovasole&show_icons=true&theme=radical)
+![MauriceWa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricewa&show_icons=true&theme=radical)
 
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauriceWa&theme=radical)](https://git.io/streak-stats)
