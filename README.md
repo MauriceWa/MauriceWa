@@ -1,8 +1,8 @@
 # Hello there, I'm MauriceWa 👋
 
 ## About Me
-- 🔭 I’m currently working on **[Webdevelopment, Unity & Cyber Security]**
-- 🌱 I’m currently learning **[.NET and C#]**
+- 🔭 I’m currently working on **[Webdevelopment & Cyber Security]**
+- 🌱 I’m currently learning **[C++ and Linux]**
 - 📫 How to reach me: **[https://www.MauriceWa.com]**
 
 ## My GitHub Stats
@@ -33,6 +33,6 @@
 [6.2]: http://i.imgur.com/9I6NRUm.png
 
 <!-- Links to social media accounts -->
-[1]: https://www.instagram.com/mauricewaai/
+[1]: https://www.instagram.com/ticktock_hacker/
 [3]: https://www.linkedin.com/in/maurice-waaijer-6b2789291/
 [6]: http://www.github.com/MauriceWa
